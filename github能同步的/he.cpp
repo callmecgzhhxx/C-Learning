@@ -9,6 +9,8 @@
 int main()
 {
 	printf("hello cgz, 这是我们共同的仓库，我们俩可以同时编辑这个仓库并推送，对方可以同时查看");
+
+	printf("靠靠靠靠靠靠靠");
 	getchar();
 	return 0;
 }
